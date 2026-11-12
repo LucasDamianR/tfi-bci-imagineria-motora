@@ -33,6 +33,10 @@ pip install -r requirements.txt
 > `experimentos/etapa4.py` (~3 h) o `etapa5.py` (~45 min) si se cambia algo de esas etapas. Los
 > notebooks 01 y 02 descargan el dataset de PhysioNet la primera vez que se ejecutan.
 
+## Glosario
+
+¿Algún término técnico no se entiende (ERD, CSP, LDA, BA, AUC, LOSO, Wilcoxon...)? Está explicado en palabras simples, con nuestros propios números, en [GLOSARIO.md](GLOSARIO.md).
+
 ## Estructura
 
 | Ruta | Contenido |
