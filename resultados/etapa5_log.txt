@@ -1,0 +1,24 @@
+datos (4768, 64, 321) en 5 s
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done  12 tasks      | elapsed:  4.7min
+[Parallel(n_jobs=3)]: Done  66 tasks      | elapsed: 26.6min
+[Parallel(n_jobs=3)]: Done 106 out of 106 | elapsed: 43.1min finished
+                    balanced_accuracy    auc
+k  estrategia                               
+0  general                      0.623  0.709
+5  alineado_umbral              0.676  0.743
+   general                      0.624  0.709
+   general_umbral               0.647  0.709
+10 alineado_umbral              0.684  0.745
+   general                      0.622  0.707
+   general_umbral               0.653  0.707
+   personal                     0.537  0.555
+20 alineado_umbral              0.691  0.749
+   general                      0.622  0.710
+   general_umbral               0.658  0.710
+   personal                     0.567  0.593
+30 alineado_umbral              0.690  0.746
+   general                      0.625  0.709
+   general_umbral               0.663  0.709
+   personal                     0.590  0.621
+listo en 43.2 min: F:\Users\Lucas\Scripts\tfi-bci-imagineria-motora\resultados\05_calibracion.csv

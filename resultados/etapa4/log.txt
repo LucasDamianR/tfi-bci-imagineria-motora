@@ -1,0 +1,14 @@
+[banda (8.0, 12.0)] datos (4767, 64, 561) en 51 s
+  banda_mu         dentro BA 0.596 | entre BA 0.618 AUC 0.683 | 1100 s
+[banda (8.0, 30.0)] datos (4767, 64, 561) en 45 s
+  base             dentro BA 0.604 | entre BA 0.624 AUC 0.709 | 1104 s
+  potencia_lda     dentro BA 0.595 | entre BA 0.612 AUC 0.660 | 121 s
+  csp_svm          dentro BA 0.603 | entre BA 0.620 AUC 0.702 | 1092 s
+  csp_rf           dentro BA 0.583 | entre BA 0.599 AUC 0.662 | 1383 s
+  ventana_0.0-2.0  dentro BA 0.611 | entre BA 0.620 AUC 0.714 | 1133 s
+  ventana_1.0-3.0  dentro BA 0.576 | entre BA 0.595 AUC 0.668 | 1119 s
+  ventana_0.5-3.5  dentro BA 0.614 | entre BA 0.612 AUC 0.693 | 1882 s
+  alineacion_ea    dentro BA 0.601 | entre BA 0.691 AUC 0.747 | 1296 s
+[banda (13.0, 30.0)] datos (4767, 64, 561) en 57 s
+  banda_beta       dentro BA 0.595 | entre BA 0.613 AUC 0.691 | 1321 s
+listo: F:\Users\Lucas\Scripts\tfi-bci-imagineria-motora\resultados\04_resultados.csv
